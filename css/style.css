@@ -56,6 +56,11 @@ section{
         border-image-slice: 100%;
     border-image-slice: 1;
 }
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
 
 .button{
     text-decoration: none;
